@@ -1,0 +1,7 @@
+Accuracy,Classification Report
+1.0,"{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 19.0}"
+1.0,"{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 13.0}"
+1.0,"{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 13.0}"
+1.0,1.0
+1.0,"{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 45.0}"
+1.0,"{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 45.0}"
