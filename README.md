@@ -66,3 +66,12 @@ The main goal here was to create, train, and assess a model that classifies data
 
 *Wrap-Up*
 In Machine Learning Model Implementation, we explored how to use Scikit-Learn to create a solid and interpretable machine learning pipeline. By leveraging Python’s tools and libraries, we built and evaluated a predictive model successfully. The workflow we followed can easily be adapted to work with more complex datasets and classification tasks, making it a key exercise for those aspiring to be data scientists or machine learning practitioners.
+
+*Output*
+![Image](https://github.com/user-attachments/assets/c82cb0ed-0705-4f07-aa54-18955975893d)
+
+*Output1*
+![Image](https://github.com/user-attachments/assets/7ea244a3-6fb1-4f94-9abb-8e29e0001957)
+
+*Output2*
+![Image](https://github.com/user-attachments/assets/16561851-c596-48e2-9227-039bd248639d)
